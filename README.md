@@ -27,7 +27,13 @@
   https://github.com/NicolasCrausaz-HEIG-VD/PLM-ElmO-Game
 <img width="1523" alt="elmo" src="https://github.com/Boyquotes/awesome-enable3d/assets/417514/4730608c-2850-4002-b8d3-a466b5febc8d">
 
+- https://flipmeacoin.com/
+   - https://github.com/aegis1980/flipmeacoin
+<img width="1932" alt="flipmeacoin" src="https://github.com/Boyquotes/awesome-enable3d/assets/417514/94526958-7274-4f1f-b4b6-4f4b04f73611">
+
+
 - https://alvarobyrne.github.io/enable3d-voronoi/
    - https://github.com/alvarobyrne/enable3d-voronoi
   <img width="1197" alt="enableVoronoi" src="https://github.com/Boyquotes/awesome-enable3d/assets/417514/8eacd0fc-b6e5-440b-9f07-5f3583ff946e">
+  
 
