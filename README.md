@@ -34,8 +34,17 @@
 <img width="1932" alt="flipmeacoin" src="https://github.com/Boyquotes/awesome-enable3d/assets/417514/94526958-7274-4f1f-b4b6-4f4b04f73611">
 
 https://github.com/hecmocer-pro/3d-portfolio
-
 https://hecmocer.es/3d-portfolio/
+
+2D / 3D
+
+- https://enable3d.io/examples/switch-camera-between-2d-and-3d.html
+- https://enable3d.io/examples/water.html
+- https://enable3d.io/examples/first-person-shooter.html
+  
+- VR
+
+https://enable3d.io/examples/virtual-reality-phaser.html
 
 - https://alvarobyrne.github.io/enable3d-voronoi/
 - https://github.com/alvarobyrne/enable3d-voronoi
